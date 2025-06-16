@@ -12,10 +12,10 @@ class Info {
     // let xcodeBuildFilePath = "/Users/daliu_kt/Desktop/job/GitHub/KaiToApp/build/build_date.txt"
     
     // build 目录
-    let localBuildPath = "/Users/daliu_kt/Desktop/job/GitHub/ios_distribution/build/"
+    let localBuildPath = "/Users/daliu_kt/Desktop/job/GitHub/ios_distribution_yaps/build/"
     
     // git page 地址
-    let gitPageHome = "https://KaiToDaLiu.github.io/ios_distribution/"
+    let gitPageHome = "https://KaiToDaLiu.github.io/ios_distribution_yaps/"
     
     /// 2024_09_26_14_56_09
     // private var ipaDirName = "2025_05_16_16_26_09" // HERE!!
@@ -72,7 +72,7 @@ class Info {
         print(gitPageHome + "57.png")
         print(gitPageHome + "512.png")
         print("Rename file name after export: " + ipaDirName)
-        print("Scan download url: https://kaitodaliu.github.io/ios_distribution/index.html")
+        print("Scan download url: https://kaitodaliu.github.io/ios_distribution_yaps/index.html")
     }
     
     public func logHTML() {
