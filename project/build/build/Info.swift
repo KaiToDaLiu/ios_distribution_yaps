@@ -9,7 +9,7 @@ import Foundation
 
 class Info {
     // build_date 文件路径
-    // let xcodeBuildFilePath = "/Users/daliu_kt/Desktop/job/GitHub/KaiToApp/build/build_date.txt"
+    // let xcodeBuildFilePath = "/Users/daliu_kt/Desktop/job/GitHub/KaitoYaps/build/build_date.txt"
     
     // build 目录
     let localBuildPath = "/Users/daliu_kt/Desktop/job/GitHub/ios_distribution_yaps/build/"
@@ -68,7 +68,7 @@ class Info {
         print("=============================================")
         print("            Archive information:")
         print("=============================================")
-        print(gitPageHome + "build/" + self.ipaDirName + "/KaiToApp.ipa")
+        print(gitPageHome + "build/" + self.ipaDirName + "/KaitoYaps.ipa")
         print(gitPageHome + "57.png")
         print(gitPageHome + "512.png")
         print("Rename file name after export: " + ipaDirName)
