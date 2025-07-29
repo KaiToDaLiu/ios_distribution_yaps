@@ -68,7 +68,7 @@ class Info {
         print("=============================================")
         print("            Archive information:")
         print("=============================================")
-        print(gitPageHome + "build/" + self.ipaDirName + "/KaitoYaps.ipa")
+        print(gitPageHome + "build/" + self.ipaDirName + "/ExpoKaitoYaps.ipa")
         print(gitPageHome + "57.png")
         print(gitPageHome + "512.png")
         print("Rename file name after export: " + ipaDirName)
