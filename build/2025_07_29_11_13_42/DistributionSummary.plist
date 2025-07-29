@@ -2,7 +2,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>KaitoYaps.ipa</key>
+	<key>ExpoKaitoYaps.ipa</key>
 	<array>
 		<dict>
 			<key>architectures</key>
@@ -61,7 +61,7 @@
 				<false/>
 			</dict>
 			<key>name</key>
-			<string>KaitoYaps.app</string>
+			<string>ExpoKaitoYaps.app</string>
 			<key>profile</key>
 			<dict>
 				<key>UUID</key>
@@ -79,7 +79,7 @@
 				<string>Kaito Pte. Ltd.</string>
 			</dict>
 			<key>versionNumber</key>
-			<string>1.0</string>
+			<string>1.0.0</string>
 		</dict>
 	</array>
 </dict>
