@@ -20,9 +20,6 @@ class Info {
     /// 2024_09_26_14_56_09
     // private var ipaDirName = "2025_05_16_16_26_09" // HERE!!
     
-    /// 2024-09-26 14:56:09
-    // private var formatDate = ""
-    
     /// Debug or Release
     private var buildMode = ""
     
