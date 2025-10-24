@@ -12,7 +12,8 @@ class Info {
     // let xcodeBuildFilePath = "/Users/daliu_kt/Desktop/job/GitHub/KaitoYaps/build/build_date.txt"
     
     // build 目录
-    let localBuildPath = "/Users/daliu_kt/Desktop/job/GitHub/ios_distribution_yaps/build/"
+//    let localBuildPath = "/Users/daliu_kt/Desktop/job/GitHub/ios_distribution_yaps/build/"
+    let localBuildPath = "/Users/luguoliang/git/ios_distribution_yaps/build/"
     
     // git page 地址
     let gitPageHome = "https://KaiToDaLiu.github.io/ios_distribution_yaps/"
