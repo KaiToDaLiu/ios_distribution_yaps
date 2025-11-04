@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>destination</key>
+	<string>export</string>
+	<key>manifest</key>
+	<dict>
+		<key>appURL</key>
+<<<<<<<< Updated upstream:build/2025_11_03_15_37_56/ExportOptions.plist
+		<string>https://KaiToDaLiu.github.io/ios_distribution_yaps/build/2025_11_03_15_37_56/KaitoYaps.ipa</string>
+========
+		<string>https://KaiToDaLiu.github.io/ios_distribution_yaps/build/2025_11_04_13_41_34/KaitoYaps.ipa</string>
+>>>>>>>> Stashed changes:build/2025_11_04_13_41_34/ExportOptions.plist
+		<key>displayImageURL</key>
+		<string>https://KaiToDaLiu.github.io/ios_distribution_yaps/57.png</string>
+		<key>fullSizeImageURL</key>
+		<string>https://KaiToDaLiu.github.io/ios_distribution_yaps/512.png</string>
+	</dict>
+	<key>method</key>
+	<string>release-testing</string>
+	<key>signingStyle</key>
+	<string>automatic</string>
+	<key>stripSwiftSymbols</key>
+	<true/>
+	<key>teamID</key>
+	<string>358UF6MCG5</string>
+	<key>thinning</key>
+	<string>&lt;none&gt;</string>
+</dict>
+</plist>

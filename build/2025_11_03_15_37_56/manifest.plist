@@ -11,7 +11,11 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
+<<<<<<<< Updated upstream:build/2025_11_03_15_37_56/manifest.plist
 					<string>https://KaiToDaLiu.github.io/ios_distribution_yaps/build/2025_11_03_15_37_56/KaitoYaps.ipa</string>
+========
+					<string>https://KaiToDaLiu.github.io/ios_distribution_yaps/build/2025_11_04_13_41_34/KaitoYaps.ipa</string>
+>>>>>>>> Stashed changes:build/2025_11_04_13_41_34/manifest.plist
 				</dict>
 				<dict>
 					<key>kind</key>
